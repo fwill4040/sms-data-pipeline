@@ -6,6 +6,10 @@ An MLOps data pipeline project built with Apache Airflow that ingests, transform
 
 
 
+## Pipeline graph
+
+![Airflow Pipeline](airflow-pipeline.png)
+
 \## Pipeline stages
 
 
